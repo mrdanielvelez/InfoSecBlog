@@ -65,7 +65,7 @@ author:
       icon: "fab fa-fw fa-youtube-square"
       url: "https://www.youtube.com/channel/UCrigwpjl20AJURIBFwLn5dA"
     - label: "Personal Blog"
-      icon: "fab fa-fw fa-blog"
+      icon: "fab fa-fw fa-square-rss"
       url: "https://danielvelez.me"  
     - label: "HackTheBox Profile"
       icon: "fas fa-fw fa-cube"
