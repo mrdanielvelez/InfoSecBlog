@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: InfoSec by Daniel Velez
-description: Penetration Testing and Cybersecurity
+description: Cybersecurity Insights
 twitter_username: danielvelez
 github_username: mrdanielvelez
 minimal_mistakes_skin: dark
@@ -27,7 +27,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
